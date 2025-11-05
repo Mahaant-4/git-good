@@ -1,2 +1,1 @@
-print('vortex vanquisher')
-print('this line from genshin branch')
+print('staff of homa')
