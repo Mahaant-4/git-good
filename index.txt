@@ -2,3 +2,4 @@
 # second modification
 # last modofication
 resolving the created conflict
+creating a conflict
