@@ -1,3 +1,4 @@
 # modifiying exixsting file
 # second modification
 # last modofication
+resolving the created conflict
