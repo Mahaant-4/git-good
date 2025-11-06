@@ -1,2 +1,2 @@
 idhu chumma dummy file
-creating a conflict
+resolving a conflict
